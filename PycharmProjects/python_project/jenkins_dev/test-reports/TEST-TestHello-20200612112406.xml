@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file=".py" name="TestHello-20200612112406" skipped="0" tests="3" time="0.017" timestamp="2020-06-12T11:24:06">
+	<testcase classname="TestHello" file="test.py" line="10" name="test_hello" time="0.012" timestamp="2020-06-12T11:24:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="TestHello" file="test.py" line="15" name="test_hello_hello" time="0.002" timestamp="2020-06-12T11:24:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="TestHello" file="test.py" line="20" name="test_hello_name" time="0.002" timestamp="2020-06-12T11:24:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>
